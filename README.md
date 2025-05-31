@@ -13,23 +13,25 @@ Game ini dibuat dengan pendekatan **mini runner sederhana** berbasis 3D mengguna
 ## 🖼️ Screenshot Tampilan
 
 ### 📌 UI
-![UI Screenshot](screenshots/ui.png)
+![UI Screenshot](https://github.com/jimmyilyas30/Pemograman5-UMB/blob/main/UI%20main%20menu.png)
 
 ### 🧍 Karakter Player
-![Player Screenshot](screenshots/player.png)
+![Player Screenshot](https://github.com/jimmyilyas30/Pemograman5-UMB/blob/main/karakter1.png)
+![Player Screenshot](https://github.com/jimmyilyas30/Pemograman5-UMB/blob/main/karakter2.png)
+![Player Screenshot](https://github.com/jimmyilyas30/Pemograman5-UMB/blob/main/karakter4.png)
 
 ### 🌄 Terrain
-![Terrain Screenshot](screenshots/terrain.png)
+![Terrain Screenshot](https://github.com/jimmyilyas30/Pemograman5-UMB/blob/main/terrain1.png)
+![Terrain Screenshot](https://github.com/jimmyilyas30/Pemograman5-UMB/blob/main/terrain2.png)
 
-### 🗺️ Minimap
-![Minimap Screenshot](screenshots/minimap.png)
 
 ### 🔁 Scene Transitions
-![Scene Transition Screenshot](screenshots/scene_transition.png)
+![Scene Transition Screenshot](https://github.com/jimmyilyas30/Pemograman5-UMB/blob/main/scene%20trasition.png)
+![Scene Transition Screenshot](https://github.com/jimmyilyas30/Pemograman5-UMB/blob/main/transition%20gameover.png)
 
-> *(Ganti semua `screenshots/xxx.png` dengan nama file gambarmu di folder repo)*
 
 ## 👤 Nama dan NIM
-- **Nama**: [Nama Kamu]  
-- **NIM**: [NIM Kamu]
+- **Nama**: [JIMMY ILYAS]  
+- **NIM**: [210220010]
+- **LINK PACKAGE**: (https://drive.google.com/file/d/1FmZvfL5sTtJavyVOd6VEAmxACg9hY9Kv/view?usp=sharing)
 
